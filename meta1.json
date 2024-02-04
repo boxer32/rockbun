@@ -1,0 +1,23 @@
+{
+  "name": "Rockbun #",
+  "description": "Description here",
+  "image": "image link here",
+  "animation_url": "www.example.com/1.mp4",
+  "attributes": [
+      {"trait_type": "Accessories",
+       "value": "Empty"},
+ {"trait_type": "Mouth",
+       "value": "Empty"},
+ {"trait_type": "Eyes",
+       "value": "Empty"},
+ {"trait_type": "Head",
+       "value": "Empty"},
+ {"trait_type": "Guitar",
+       "value": "Empty"},
+ {"trait_type": "Body",
+       "value": "Empty"},
+ {"trait_type": "Rarity",
+       "value": "Empty"}
+	
+  ]
+}
