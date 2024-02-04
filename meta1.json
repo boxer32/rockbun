@@ -7,17 +7,17 @@
       {"trait_type": "Accessories",
        "value": "Empty"},
  {"trait_type": "Mouth",
-       "value": "Empty"},
+       "value": "Meh"},
  {"trait_type": "Eyes",
-       "value": "Empty"},
+       "value": "Wink"},
  {"trait_type": "Head",
-       "value": "Empty"},
+       "value": "Blue layer"},
  {"trait_type": "Guitar",
-       "value": "Empty"},
+       "value": "Mild Soloist"},
  {"trait_type": "Body",
-       "value": "Empty"},
+       "value": "Patch work"},
  {"trait_type": "Rarity",
-       "value": "Empty"}
+       "value": "Common"}
 	
   ]
 }
