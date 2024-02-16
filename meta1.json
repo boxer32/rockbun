@@ -1,8 +1,8 @@
 {
-    "name": "Rockbun #5",
+    "name": "Rockbun #4",
     "description": "Description here",
-    "image": "https://bafybeid2o52bwg7mdox36tb7xiilw4ytzew6p5sttg4csxde6zdse4mmuu.ipfs.nftstorage.link/5.png",
-    "animation_url": "https://nftstorage.link/ipfs/bafybeida2y7xzvdhloahqbwd54x5kincvqrl33rvnxzgnz4e56knnimhqq/5.mp4",
+    "image": "https://bafybeid2o52bwg7mdox36tb7xiilw4ytzew6p5sttg4csxde6zdse4mmuu.ipfs.nftstorage.link/4.png",
+    "animation_url": "https://nftstorage.link/ipfs/bafybeida2y7xzvdhloahqbwd54x5kincvqrl33rvnxzgnz4e56knnimhqq/4.mp4",
     "attributes": [
         {
             "trait_type": "Accessories",
@@ -10,23 +10,23 @@
         },
         {
             "trait_type": "Mouth",
-            "value": "Cheerly"
+            "value": "Nervous"
         },
         {
             "trait_type": "Eyes",
-            "value": "Beam"
+            "value": "Red wings"
         },
         {
             "trait_type": "Head",
-            "value": "Red Pony"
+            "value": "Pink dot"
         },
         {
             "trait_type": "Guitar",
-            "value": "Mild Soloist"
+            "value": "Pink LPS"
         },
         {
             "trait_type": "Body",
-            "value": "Oops"
+            "value": "Pink dot"
         },
         {
             "trait_type": "Rarity",
