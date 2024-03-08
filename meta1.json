@@ -1,8 +1,8 @@
 {
-    "name": "Rockbun #4",
-    "description": "Description here",
-    "image": "https://bafybeid2o52bwg7mdox36tb7xiilw4ytzew6p5sttg4csxde6zdse4mmuu.ipfs.nftstorage.link/4.png",
-    "animation_url": "https://nftstorage.link/ipfs/bafybeida2y7xzvdhloahqbwd54x5kincvqrl33rvnxzgnz4e56knnimhqq/4.mp4",
+    "name": "Rockbun #1",
+    "description": "NFT token for single -Rare Item- music by Ploy Chompoo , character design by RockbunNFT , power by Starlet platform",
+    "image": "https://bafybeid2o52bwg7mdox36tb7xiilw4ytzew6p5sttg4csxde6zdse4mmuu.ipfs.nftstorage.link/1.png",
+    "animation_url": "https://nftstorage.link/ipfs/bafybeida2y7xzvdhloahqbwd54x5kincvqrl33rvnxzgnz4e56knnimhqq/1.mp4",
     "attributes": [
         {
             "trait_type": "Accessories",
@@ -10,23 +10,23 @@
         },
         {
             "trait_type": "Mouth",
-            "value": "Nervous"
+            "value": "Meh"
         },
         {
             "trait_type": "Eyes",
-            "value": "Red wings"
+            "value": "Wink"
         },
         {
             "trait_type": "Head",
-            "value": "Pink dot"
+            "value": "Blue layer"
         },
         {
             "trait_type": "Guitar",
-            "value": "Pink LPS"
+            "value": "Mild Soloist"
         },
         {
             "trait_type": "Body",
-            "value": "Pink dot"
+            "value": "Patch work"
         },
         {
             "trait_type": "Rarity",
