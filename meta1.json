@@ -1,36 +1,37 @@
 {
-    "name": "Rockbun #1",
-    "description": "NFT token for single -Rare Item- music by Ploy Chompoo , character design by RockbunNFT , power by Starlet platform",
-    "image": "https://bafybeid2o52bwg7mdox36tb7xiilw4ytzew6p5sttg4csxde6zdse4mmuu.ipfs.nftstorage.link/1.png",
-    "animation_url": "https://nftstorage.link/ipfs/bafybeida2y7xzvdhloahqbwd54x5kincvqrl33rvnxzgnz4e56knnimhqq/1.mp4",
+    "id": 19,
+    "image": "https://bafybeibn3b37p7mikedmeqdzjznaqdkcwai55kt2yermcvf5nhxpi6eiay.ipfs.nftstorage.link/19.png",
+    "name": "Rockbunn x Ploy #19",
+    "description": "",
     "attributes": [
         {
             "trait_type": "Accessories",
-            "value": "Empty"
+            "value": "Music"
         },
         {
             "trait_type": "Mouth",
-            "value": "Meh"
+            "value": "Nervous"
         },
         {
             "trait_type": "Eyes",
-            "value": "Wink"
+            "value": "Orange cat eyes"
         },
         {
             "trait_type": "Head",
-            "value": "Blue layer"
+            "value": "Sunflower"
         },
         {
             "trait_type": "Guitar",
-            "value": "Mild Soloist"
+            "value": "blue LPS"
         },
         {
             "trait_type": "Body",
-            "value": "Patch work"
+            "value": "Unicorn"
         },
         {
             "trait_type": "Rarity",
-            "value": "Common"
+            "value": "Rare"
         }
-    ]
+    ],
+    "animation_url": "https://nftstorage.link/ipfs/bafybeidjwhr5pzjticqnzzhk442mvuu4bvckjk6mlb7xxk4o42dfwnp5q4/19.mp4"
 }
